@@ -1,14 +1,10 @@
 
-hier steht was
+some pb-repos
 
-Original
+[SicroAtGit](https://github.com/SicroAtGit/PureBasic-CodeArchiv-Rebirth/)
 
-(https://tajmone.github.io/purebasic-archives/)
+[tajmone](https://tajmone.github.io/purebasic-archives/)
 
-(https://github.com/SicroAtGit/PureBasic-CodeArchiv-Rebirth/)
-
-
-Das Markdown Ding muss ich mal etwas üben
 
 # ich kann schon dick
 
