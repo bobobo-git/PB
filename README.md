@@ -12,6 +12,6 @@ Das Markdown Ding muss ich mal etwas üben
 
 und [link](http://link.de "wurzelsepp")
 
-und [bilderlink](https://avatars3.githubusercontent.com/u/16814488?s=460&v=4)
+und ![bilderlink](https://avatars3.githubusercontent.com/u/16814488?s=460&v=4)
 
 
