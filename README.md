@@ -12,7 +12,7 @@ Das Markdown Ding muss ich mal etwas üben
 
 # ich kann schon dick
 
-und [link](http://link.de "wurzelsepp")
+und [link](https://bobobo-git.github.io/pb)
 
 und ![bilderlink](https://avatars3.githubusercontent.com/u/16814488?s=460&v=4)
 
