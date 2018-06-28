@@ -5,7 +5,9 @@ Original
 
 https://tajmone.github.io/purebasic-archives/
 
-https://github.com/SicroAtGit/PureBasic-CodeArchiv-Rebirth
+https://github.com/SicroAtGit/PureBasic-CodeArchiv-Rebirth/
+
+https://SicroAtGit.github.io/PureBasic-CodeArchiv-Rebirth/
 
 
 Das Markdown Ding muss ich mal etwas üben
